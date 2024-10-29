@@ -22,7 +22,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/anods-cocoa-website.git
+git clone https://github.com/leharagit/anods-cocoa-resturent-manegment-system.git
 Navigate to the project folder:
 bash
 Copy code
